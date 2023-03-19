@@ -20,6 +20,7 @@
 		A9923C5029193E3500E65407 /* FormViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9923C4F29193E3500E65407 /* FormViewController.swift */; };
 		A99D026F291A67F2002BF1BE /* CommonCryptoManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99D026E291A67F2002BF1BE /* CommonCryptoManager.swift */; };
 		A9AA845F291E3978008DB293 /* Multitask.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9AA845E291E3978008DB293 /* Multitask.storyboard */; };
+		A9CD5A0729C79B11007D84AC /* beach.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A9CD5A0629C79B11007D84AC /* beach.jpeg */; };
 		A9DA8D6E28F36CEE00FE919B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DA8D6D28F36CEE00FE919B /* AppDelegate.swift */; };
 		A9DA8D7028F36CEE00FE919B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DA8D6F28F36CEE00FE919B /* SceneDelegate.swift */; };
 		A9DA8D7228F36CEE00FE919B /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DA8D7128F36CEE00FE919B /* MainViewController.swift */; };
@@ -27,7 +28,6 @@
 		A9DA8D7728F36CEF00FE919B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9DA8D7628F36CEF00FE919B /* Assets.xcassets */; };
 		A9DA8D7A28F36CEF00FE919B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9DA8D7828F36CEF00FE919B /* LaunchScreen.storyboard */; };
 		A9E0B200291CE5E800340D65 /* ImagePickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E0B1FF291CE5E800340D65 /* ImagePickerViewController.swift */; };
-		A9ED4D672917DA2F001A50F3 /* beach.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A9ED4D662917DA2F001A50F3 /* beach.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +45,7 @@
 		A9923C4F29193E3500E65407 /* FormViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormViewController.swift; sourceTree = "<group>"; };
 		A99D026E291A67F2002BF1BE /* CommonCryptoManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonCryptoManager.swift; sourceTree = "<group>"; };
 		A9AA845E291E3978008DB293 /* Multitask.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Multitask.storyboard; sourceTree = "<group>"; };
+		A9CD5A0629C79B11007D84AC /* beach.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beach.jpeg; sourceTree = "<group>"; };
 		A9DA8D6A28F36CEE00FE919B /* secureDevelopment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = secureDevelopment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9DA8D6D28F36CEE00FE919B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A9DA8D6F28F36CEE00FE919B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -54,7 +55,6 @@
 		A9DA8D7928F36CEF00FE919B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A9DA8D7B28F36CEF00FE919B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A9E0B1FF291CE5E800340D65 /* ImagePickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerViewController.swift; sourceTree = "<group>"; };
-		A9ED4D662917DA2F001A50F3 /* beach.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = beach.jpeg; path = ../../../../../Downloads/beach.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,7 +132,7 @@
 				A9DA8D7328F36CEE00FE919B /* Main.storyboard */,
 				A9DA8D7828F36CEF00FE919B /* LaunchScreen.storyboard */,
 				A9DA8D7628F36CEF00FE919B /* Assets.xcassets */,
-				A9ED4D662917DA2F001A50F3 /* beach.jpeg */,
+				A9CD5A0629C79B11007D84AC /* beach.jpeg */,
 				A9DA8D7B28F36CEF00FE919B /* Info.plist */,
 			);
 			path = secureDevelopment;
@@ -198,9 +198,9 @@
 			files = (
 				A9AA845F291E3978008DB293 /* Multitask.storyboard in Resources */,
 				A9DA8D7A28F36CEF00FE919B /* LaunchScreen.storyboard in Resources */,
-				A9ED4D672917DA2F001A50F3 /* beach.jpeg in Resources */,
 				A9DA8D7728F36CEF00FE919B /* Assets.xcassets in Resources */,
 				A9DA8D7528F36CEE00FE919B /* Main.storyboard in Resources */,
+				A9CD5A0729C79B11007D84AC /* beach.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
